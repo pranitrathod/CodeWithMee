@@ -1,5 +1,5 @@
 # CodewithMe
-In this Repo you are open to contribute efficent code for example effiicent searching technique or some recurrion algo or even backtracking stuff!  feel free to pull request <b>I'll accept it</b>
+In this Repo you are open to contribute efficent code for example effiicent searching technique or some recursion algo or even backtracking stuff!  feel free to pull request <b>I'll accept it</b>
 <br>
 <br>
 <b><h3>Thing You just need to do</h3></b>
